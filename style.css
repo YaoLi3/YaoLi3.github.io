@@ -1,11 +1,11 @@
 body{
-    background-color: white;
+    background-color: grey;
     font-family: Helvetica, Arial, sans-serif;
 }
 
 a{
     text-decoration: none;
-    color: skyblue;
+    color: rgb(50, 174, 223);
 }
 
 #container{
@@ -16,14 +16,14 @@ a{
 }
 
 #header{
-    background-color: skyblue;
-    color: white;
+    background-color: grey;
+    color: rgba(69, 185, 231, 0.856);
     text-align: center;
     padding: 0;
 }
 
 #intro{
-    background-color: white;
+    background-color: whitesmoke;
     color: black;
     text-align: center;
     padding: 10px;
@@ -31,13 +31,13 @@ a{
 
 #content{
     padding: 10px;
-    background-color: white;
+    background-color: grey;
 }
 
 #nav ul{
     list-style-type: none;
     padding: 50px;
-    background-color: white;
+    background-color: grey;
     float: left;
     clear: none;
 }
@@ -49,14 +49,15 @@ a{
 #main{
     width: 900px;
     float: right;
-    background-color: white;
+    background-color: grey;
     clear: none;
+    color: whitesmoke;
 }
 
 #footer{
     clear: both;
     padding: 10px;
-    background-color: white;
-    color: skyblue;
+    background-color: grey;
+    color: whitesmoke;
     text-align: right;
 }
