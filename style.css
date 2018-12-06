@@ -35,6 +35,7 @@ a{
 }
 
 #nav ul{
+    width: 20%;
     list-style-type: none;
     padding: 50px;
     background-color: grey;
@@ -47,7 +48,15 @@ a{
 }
 
 #main{
-    width: 900px;
+    width: 80%;
+    float: right;
+    background-color: grey;
+    clear: none;
+    color: whitesmoke;
+}
+
+#blogs{
+    width: 80%;
     float: right;
     background-color: grey;
     clear: none;
