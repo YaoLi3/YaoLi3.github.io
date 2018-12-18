@@ -5,7 +5,7 @@ body{
 
 a{
     text-decoration: none;
-    color: rgb(50, 174, 223);
+    color: deeppink;
 }
 
 #container{
@@ -17,7 +17,7 @@ a{
 
 #header{
     background-color: black;
-    color: rgba(69, 185, 231, 0.856);
+    color: deeppink;
     text-align: center;
     padding: 0;
 }
@@ -67,6 +67,6 @@ a{
     clear: both;
     padding: 10px;
     background-color: black;
-    color: whitesmoke;
+    color: deeppink;
     text-align: right;
 }
