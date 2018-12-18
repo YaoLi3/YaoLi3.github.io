@@ -1,6 +1,6 @@
 body{
-    background-color: grey;
-    font-family: Helvetica, Arial, sans-serif;
+    background-color: black;
+    font-family: "Lucida Console", Monaco, monospace;
 }
 
 a{
@@ -16,7 +16,7 @@ a{
 }
 
 #header{
-    background-color: grey;
+    background-color: black;
     color: rgba(69, 185, 231, 0.856);
     text-align: center;
     padding: 0;
@@ -31,14 +31,14 @@ a{
 
 #content{
     padding: 10px;
-    background-color: grey;
+    background-color: black;
 }
 
 #nav ul{
     width: 20%;
     list-style-type: none;
     padding: 50px;
-    background-color: grey;
+    background-color: black;
     float: left;
     clear: none;
 }
@@ -50,7 +50,7 @@ a{
 #main{
     width: 80%;
     float: right;
-    background-color: grey;
+    background-color: black;
     clear: none;
     color: whitesmoke;
 }
@@ -58,7 +58,7 @@ a{
 #blogs{
     width: 80%;
     float: right;
-    background-color: grey;
+    background-color: black;
     clear: none;
     color: whitesmoke;
 }
@@ -66,7 +66,7 @@ a{
 #footer{
     clear: both;
     padding: 10px;
-    background-color: grey;
+    background-color: black;
     color: whitesmoke;
     text-align: right;
 }
