@@ -5,7 +5,7 @@ body{
 
 a{
     text-decoration: none;
-    color: deeppink;
+    color: black;
 }
 
 #container{
@@ -16,29 +16,29 @@ a{
 }
 
 #header{
-    background-color: black;
-    color: deeppink;
+    background-color: whitesmoke;
+    color: black;
     text-align: center;
     padding: 0;
 }
 
 #intro{
-    background-color: whitesmoke;
-    color: black;
+    background-color: black;
+    color: whitesmoke;
     text-align: center;
     padding: 10px;
 }
 
 #content{
     padding: 10px;
-    background-color: black;
+    background-color: whitesmoke;
 }
 
 #nav ul{
     width: 20%;
     list-style-type: none;
     padding: 50px;
-    background-color: black;
+    background-color: whitesmoke;
     float: left;
     clear: none;
 }
@@ -50,23 +50,23 @@ a{
 #main{
     width: 80%;
     float: right;
-    background-color: black;
+    background-color: whitesmoke;
     clear: none;
-    color: whitesmoke;
+    color: black;
 }
 
 #blogs{
     width: 80%;
     float: right;
-    background-color: black;
+    background-color: whitesmoke;
     clear: none;
-    color: whitesmoke;
+    color: black;
 }
 
 #footer{
     clear: both;
     padding: 10px;
-    background-color: black;
-    color: deeppink;
+    background-color: whitesmoke;
+    color: black;
     text-align: right;
 }
